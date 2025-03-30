@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Ariadna Coin"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Follow the thread"
+name                     : "Ariadna Coin"
 description              : "Follow the thread"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,10 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Ariadna Coin"
+  avatar           : "https://github.com/ariadnacoin/metadata/blob/main/AriadnaCoin.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Follow the thread"
   email            :
   links:
     - label: "Email"
