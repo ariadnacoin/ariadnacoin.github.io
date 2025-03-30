@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Ariadna Coin"
-  avatar           : "https://github.com/ariadnacoin/metadata/blob/main/AriadnaCoin.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://yellow-careful-quokka-850.mypinata.cloud/ipfs/bafybeihnjrm6iqdwhx7m26ngp67m3pyrq2jv7yzqfgivpy5u2hdnbokuom" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Follow the thread"
   email            :
   links:
